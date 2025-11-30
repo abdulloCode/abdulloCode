@@ -1,6 +1,4 @@
-<!-- Modern Interactive GitHub Profile README -->
 
-![Header](https://raw.githubusercontent.com/abdulloCode/abdulloCode/main/assets/header.png)
 
 # 👋 Hi, I'm Abdullo Abduqodirov!
 
