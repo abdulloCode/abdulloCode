@@ -1,4 +1,4 @@
-<!-- Zamonaviy interaktiv GitHub profil README -->
+
 
 ![Header](https://raw.githubusercontent.com/abdulloCode/abdulloCode/main/assets/header.png)
 
@@ -32,7 +32,7 @@
 
 ## 📫 Muloqot uchun
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abdullocode@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ghd7jd@gmail.com)
 
 ---
 
